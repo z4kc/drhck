@@ -13,4 +13,4 @@ apt-get install termimage -y
 touch sshloader.sh
 echo -e "passwd \n sshd \n ssh $user@$ip -p 8022 \n" >> sshloader.sh
 chmod +x *
-#expect killpswd.exp
+expect killpswd.exp
