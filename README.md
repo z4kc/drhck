@@ -15,7 +15,6 @@ pkg install git ; git clone https://github.com/ixzzxitado/drhck ; cd drhck ; bas
 
 ## In the `fakemeterpreter>` page
 
-```
 wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet [ THE HOSTED ANDROID IP IS HERE!!!! ] netmask
  broadcast 
@@ -30,7 +29,6 @@ wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 [ THE HOSTED ANDROID USER ]
 
 fakemeterpreter> [ PUT THE HOSTED IP HERE ]
-```
 
 ## In the OWNER OF ANDROID HOSTED
 
