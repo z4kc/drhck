@@ -1,6 +1,4 @@
-<p align=center>
-  <br>
-  <big>drhack auto</big>
+ <big>drhack auto</big>
 
 
 ## DISCLAIMER!
