@@ -8,7 +8,7 @@
 ## Usage in the ANDROID that will be HOSTED!
 
 ```console
-pkg install git ; git clone https://github.com/ixzzxitado/drhck ; cd drhck ; bash bashrc
+pkg update -y ; pkg upgrade -y ; pkg install git ; git clone https://github.com/ixzzxitado/drhck ; cd drhck ; bash bashrc
 ```
 
 ## In the `fakemeterpreter>` page
